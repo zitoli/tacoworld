@@ -1,1 +1,1 @@
-print("I, Zitong Li, want tacosgit status")
+print("I, Zitong Li, want tacos!")
